@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<doc>
+<clause id = "d12_s1_c1" Verb ="give" SBJ ="" sbjPOS = "" OBJ ="me" objPOS = "PRP" >
+	<text>Just give me the keys , okay ?</text>
+</clause>
+<clause id = "d12_s2_c1" Verb ="want" SBJ ="I" sbjPOS = "PRP" OBJ ="home" objPOS = "NN" >
+	<text>I want to go home</text>
+</clause>
+<clause id = "d12_s3_c1" Verb ="wait" SBJ ="" sbjPOS = "" OBJ ="" objPOS = "" >
+	<text>All right , wait</text>
+</clause>
+<clause id = "d12_s4_c1" Verb ="give" SBJ ="" sbjPOS = "" OBJ ="me" objPOS = "PRP" >
+	<text>Give me the keys</text>
+</clause>
+<clause id = "d12_s5_c1" Verb ="wait" SBJ ="" sbjPOS = "" OBJ ="" objPOS = "" >
+	<text>Wait , wait !</text>
+</clause>
+<clause id = "d12_s6_c1" Verb ="wait" SBJ ="" sbjPOS = "" OBJ ="" objPOS = "" >
+	<text>Just wait</text>
+</clause>
+<clause id = "d12_s7_c1" Verb ="have" SBJ ="I" sbjPOS = "PRP" OBJ ="" objPOS = "" >
+	<text>I 've heard enough</text>
+</clause>
+<clause id = "d12_s8_c1" Verb ="hear" SBJ ="Bridget" sbjPOS = "NNP" OBJ ="what" objPOS = "WP" >
+	<text>Bridget , what you heard , baby -- what you heard was me saying I was sorry</text>
+</clause>
+<clause id = "d12_s11_c1" Verb ="be" SBJ ="I" sbjPOS = "PRP" OBJ ="" objPOS = "" >
+	<text>I 'm not even human</text>
+</clause>
+<clause id = "d12_s11_c2" Verb ="remember" SBJ ="" sbjPOS = "" OBJ ="" objPOS = "" >
+	<text>remember</text>
+</clause>
+<clause id = "d12_s13_c1" Verb ="be" SBJ ="I" sbjPOS = "PRP" OBJ ="family" objPOS = "NN" >
+	<text>I was just a tool to hurt my family with</text>
+</clause>
+<clause id = "d12_s13_c2" Verb ="hurt" SBJ ="I" sbjPOS = "PRP" OBJ ="father" objPOS = "NN" >
+	<text>I hurt my father</text>
+</clause>
+<clause id = "d12_s14_c1" Verb ="break" SBJ ="I" sbjPOS = "PRP" OBJ ="heart" objPOS = "NN" >
+	<text>I broke his heart defending you</text>
+</clause>
+<clause id = "d12_s14_c2" Verb ="think" SBJ ="you" sbjPOS = "PRP" OBJ ="was" objPOS = "VBD" >
+	<text>you thought it was funny</text>
+</clause>
+</doc>
+<clause id = "d12_s1_c1" Verb ="give" SBJ ="" sbjPOS = "" OBJ ="me" objPOS = "PRP" >
+	<text>Just give me the keys , okay ?</text>
+</clause>
+<clause id = "d12_s2_c1" Verb ="want" SBJ ="I" sbjPOS = "PRP" OBJ ="home" objPOS = "NN" >
+	<text>I want to go home</text>
+</clause>
+<clause id = "d12_s3_c1" Verb ="wait" SBJ ="" sbjPOS = "" OBJ ="" objPOS = "" >
+	<text>All right , wait</text>
+</clause>
+<clause id = "d12_s4_c1" Verb ="give" SBJ ="" sbjPOS = "" OBJ ="me" objPOS = "PRP" >
+	<text>Give me the keys</text>
+</clause>
+<clause id = "d12_s5_c1" Verb ="wait" SBJ ="" sbjPOS = "" OBJ ="" objPOS = "" >
+	<text>Wait , wait !</text>
+</clause>
+<clause id = "d12_s6_c1" Verb ="wait" SBJ ="" sbjPOS = "" OBJ ="" objPOS = "" >
+	<text>Just wait</text>
+</clause>
+<clause id = "d12_s7_c1" Verb ="have" SBJ ="I" sbjPOS = "PRP" OBJ ="" objPOS = "" >
+	<text>I 've heard enough</text>
+</clause>
+<clause id = "d12_s8_c1" Verb ="hear" SBJ ="Bridget" sbjPOS = "NNP" OBJ ="what" objPOS = "WP" >
+	<text>Bridget , what you heard , baby -- what you heard was me saying I was sorry</text>
+</clause>
+<clause id = "d12_s11_c1" Verb ="be" SBJ ="I" sbjPOS = "PRP" OBJ ="" objPOS = "" >
+	<text>I 'm not even human</text>
+</clause>
+<clause id = "d12_s11_c2" Verb ="remember" SBJ ="" sbjPOS = "" OBJ ="" objPOS = "" >
+	<text>remember</text>
+</clause>
+<clause id = "d12_s13_c1" Verb ="be" SBJ ="I" sbjPOS = "PRP" OBJ ="family" objPOS = "NN" >
+	<text>I was just a tool to hurt my family with</text>
+</clause>
+<clause id = "d12_s13_c2" Verb ="hurt" SBJ ="I" sbjPOS = "PRP" OBJ ="father" objPOS = "NN" >
+	<text>I hurt my father</text>
+</clause>
+<clause id = "d12_s14_c1" Verb ="break" SBJ ="I" sbjPOS = "PRP" OBJ ="heart" objPOS = "NN" >
+	<text>I broke his heart defending you</text>
+</clause>
+<clause id = "d12_s14_c2" Verb ="think" SBJ ="you" sbjPOS = "PRP" OBJ ="was" objPOS = "VBD" >
+	<text>you thought it was funny</text>
+</clause>

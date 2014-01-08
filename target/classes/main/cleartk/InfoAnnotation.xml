@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>InfoAnnotationTypeSystemDescriptor</name>
+  <description>Type System Definition for Information Annotation</description>
+  <version>1.0</version>
+  <vendor>Apache Software Foundation</vendor>
+  <types>
+    <typeDescription>
+      <name>main.featExt.src.InfoAnnotation</name>
+      <description/>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>Label</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>score</name>
+          <description/>
+          <rangeTypeName>uima.cas.Double</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>InfoChunk</name>
+          <description>The actual chunk of text</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>Root</name>
+          <description>Dominant verb in the chunk</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>Object</name>
+          <description>Object of the chunk</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>ObjectPOS</name>
+          <description>POS tag of the object</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>Subject</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>SubjectPOS</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>ClauseText</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>Id</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+    <typeDescription>
+      <name>main.featExt.src.score.ScoredTOP</name>
+      <description/>
+      <supertypeName>uima.cas.TOP</supertypeName>
+      <features>
+        <featureDescription>
+          <name>score</name>
+          <description/>
+          <rangeTypeName>uima.cas.Double</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+  </types>
+</typeSystemDescription>

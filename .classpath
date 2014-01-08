@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Pipeline"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/test.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/apache-uima/lib/jVinci.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/apache-uima/lib/uima-adapter-soap.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/apache-uima/lib/uima-adapter-vinci.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/apache-uima/lib/uima-core.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/apache-uima/lib/uima-cpe.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/apache-uima/lib/uima-document-annotation.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/apache-uima/lib/uima-examples.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/apache-uima/lib/uimaj-bootstrap.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/apache-uima/lib/uima-tools.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/apache-uima/eclipsePlugins/org.apache.uima.caseditor.ide_2.4.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/apache-uima/eclipsePlugins/org.apache.uima.caseditor_2.4.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/apache-uima/eclipsePlugins/org.apache.uima.debug_2.4.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/apache-uima/eclipsePlugins/org.apache.uima.desceditor_2.4.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/apache-uima/eclipsePlugins/org.apache.uima.jcas.jcasgenp_2.4.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/apache-uima/eclipsePlugins/org.apache.uima.launcher_2.4.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/apache-uima/eclipsePlugins/org.apache.uima.pear_2.4.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/apache-uima/eclipsePlugins/org.apache.uima.runtime_2.4.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/ant-1.8.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/ant-launcher-1.8.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/args4j-2.0.16.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/clearparser-0.4.0-20110930.162559-2.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-eval-0.9.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-examples-0.6.2.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-maltparser-0.8.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-ml-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-ml-crfsuite-0.2.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-ml-libsvm-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-ml-mallet-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-ml-opennlp-maxent-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-ml-svmlight-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-ml-tksvmlight-0.4.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-named-entity-0.6.3.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-opennlp-tools-0.10.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-semantic-roles-0.6.2.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-snowball-0.9.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-syntax-0.6.2.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-test-util-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-timeml-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-token-0.8.4.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-type-system-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-util-0.9.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/de.tudarmstadt.ukp.dkpro.core.api.resources-asl-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/guava-13.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/hppc-0.4.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/jdom-2.0.2.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/jdom-legacy-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/jVinci-2.4.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/liblinear-1.8.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/libsvm-3.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/lucene-snowball-3.0.3.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/mallet-2.0.7.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/maltparser-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/opennlp-maxent-3.0.2-incubating.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/opennlp-tools-1.5.2-incubating.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/opennlp-uima-1.5.2-incubating.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/spring-aop-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/spring-asm-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/spring-beans-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/spring-context-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/spring-core-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/spring-expression-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/trove4j-2.0.2.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/uimafit-1.4.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/uimaj-adapter-vinci-2.4.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/uimaj-core-2.4.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/uimaj-cpe-2.4.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/uimaj-document-annotation-2.4.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/uimaj-tools-2.4.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/stanford-corenlp-full-2012-11-12/joda-time.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/stanford-corenlp-full-2012-11-12/joda-time-2.1-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/stanford-corenlp-full-2012-11-12/jollyday.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/stanford-corenlp-full-2012-11-12/jollyday-0.4.7-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/stanford-corenlp-full-2012-11-12/stanford-corenlp-1.3.4.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/stanford-corenlp-full-2012-11-12/stanford-corenlp-1.3.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/stanford-corenlp-full-2012-11-12/stanford-corenlp-1.3.4-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/stanford-corenlp-full-2012-11-12/xom.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/stanford-corenlp-full-2012-11-12/xom-src-1.2.8.zip"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/workspace/cleartk/cleartk-token.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/cleartk-release-1.2.0/lib/cleartk-clearparser-0.7.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/home/administrator/My Files/JAVA/jar/stanford-corenlp-full-2012-11-12/stanford-corenlp-1.3.4-models.jar"/>
+	<classpathentry kind="var" path="UIMA_HOME"/>
+	<classpathentry kind="var" path="UIMA_HOME/lib/uima-core.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Program Files/apache-uima/docs/api"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

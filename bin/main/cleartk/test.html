@@ -1,0 +1,89 @@
+<html>                                                                  
+<head>                                                                  
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>  
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script> 
+ <!-- just some basic styling -->
+
+    <style type="text/css">
+
+    .clause:hover{
+
+        background-color:yellow;
+
+    }
+
+    .clause{
+
+        padding:1px;
+
+    }
+
+    p { display:inline;}
+
+    /* the most important part in here is display:none */
+
+    .menu{
+
+        display:none;
+
+        font-weight:bold;
+
+        background-color:lightgray;
+
+        padding:20px;
+
+    }
+
+    </style>
+    
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+
+    <script>
+
+    function test2(idValue,label,clause_id){
+    	
+   	switch(label){
+   		case 'preference' :  
+   			$("#" + clause_id).css("backgroundColor", "LightPink");
+   			break;
+   		
+   		case 'activity' :  
+   			$("#" + clause_id).css("backgroundColor", "LightSkyBlue"); 
+   			break;
+   		
+   		case 'health' :  
+   		
+			$("#" + clause_id).css("backgroundColor", "LightGreen");
+   			break;
+   		
+   		case 'people' :  
+			$("#" + clause_id).css("backgroundColor", "Orange");
+   			break;
+   		default :
+   			alert("ERROR");
+   		
+    	}
+    	
+
+    	
+    	
+	alert("You have labeled this clause as :" + label); 
+        $.ajax({
+
+          type: "POST",
+
+          url: "test3.php",
+
+          data: { id: idValue, tag: label}
+
+        }).done(function( msg ) {
+
+          alert( "Data Saved: " + msg );
+
+        });
+
+    }
+
+    </script>
+                                                 
+</head> 

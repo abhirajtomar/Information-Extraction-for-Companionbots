@@ -1,0 +1,12 @@
+doc : 2,id:s4_c1,label:people
+doc : 2,id:s9_c1,label:preference
+doc : 2,id:s9_c3,label:preference
+doc : 2,id:s28_c1,label:people
+doc : 2,id:s29_c1,label:people
+doc : 2,id:s34_c1,label:people
+doc : 2,id:s35_c1,label:people
+doc : 2,id:s48_c1,label:activity
+doc : 2,id:s74_c1,label:people
+doc : 2,id:s78_c1,label:people
+doc : 2,id:s79_c1,label:activity
+doc : 2,id:s84_c1,label:preference
